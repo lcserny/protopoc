@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <name>Leonardo</name>
+    <age>31</age>
+    <socialFollowers>
+        <youtube>1000</youtube>
+        <twitter>2500</twitter>
+    </socialFollowers>
+</person>
